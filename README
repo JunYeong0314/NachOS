@@ -1,2 +1,4 @@
 #nachos를 이용한 priority schduling 구현
 #환경 - linux ubuntu 32bit
+#Priority Schduling 구현 사진(Aging 기법 사용)
+![KakaoTalk_Photo_2023-05-25-21-31-22](https://github.com/JunYeong0314/NachOS/assets/96372487/0b196f96-dd50-470e-9bd6-8cb85f20f85d)
