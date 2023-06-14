@@ -1,4 +1,4 @@
-#nachos를 이용한 priority schduling 구현
+# nachos를 이용한 priority schduling 구현
 
 
 환경 - linux ubuntu 32bit
